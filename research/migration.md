@@ -10,8 +10,8 @@
 
 ## 優先校正的舊說法
 
-- 舊相容總表表示 COROS 無法匯入 Stryd 訓練課表。原廠現列相容機型可同步 Stryd 日曆中的課表並在錶上執行，彈性階段與無目標階段另有限制。原廠相容表有 PACE Pro 與 VERTIX 2S，另一份設定文章開頭的簡表漏列兩款，兩者應保留逐型驗證紀錄。[舊總表](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment) · [原廠相容名單](https://help.stryd.com/en/articles/6879255-coros-compatibility-with-stryd) · [原廠 COROS 設定](https://help.stryd.com/en/articles/6960869-coros-setup-with-stryd)
-- 舊版「與手錶連結」實際示範的是平台授權，下一個「與手錶配對」才是感測器設定。新版讓讀者分別檢查跑步中顯示瓦數、指定錶款執行課表，以及活動傳到 RQ 後含有功率。三項要各自記錄測試結果。[舊平台授權頁](https://strydtaiwan.gitbook.io/stryd/setup-stryd/connect-your-watch) · [舊感測器入口](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd)
+- 舊相容總表表示 COROS 無法匯入 Stryd 訓練課表。原廠現列相容機型可同步 Stryd 日曆中的課表並在錶上執行，彈性階段與無目標階段另有限制。原廠相容表有 PACE Pro 與 VERTIX 2S，新版依相容表收錄這兩款。[舊總表](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment) · [原廠相容名單](https://help.stryd.com/en/articles/6879255-coros-compatibility-with-stryd) · [原廠 COROS 設定](https://help.stryd.com/en/articles/6960869-coros-setup-with-stryd)
+- 舊版「與手錶連結」實際示範的是平台授權，下一個「與手錶配對」才是感測器設定。新版讓讀者分別檢查跑步中顯示瓦數、指定錶款執行課表，以及活動傳到 RQ 後含有功率。[舊平台授權頁](https://strydtaiwan.gitbook.io/stryd/setup-stryd/connect-your-watch) · [舊感測器入口](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd)
 - 舊版開箱頁以特定充電座和包裝撰寫，同一本手冊的首頁已改為 5.0。LED、充電器、鞋扣與雙顆配對的文字要保留世代條件。[舊開箱頁](https://strydtaiwan.gitbook.io/stryd/setup-stryd/unboxing-and-charging) · [5.0 介紹](https://strydtaiwan.gitbook.io/stryd)
 
 ## 逐頁對照
@@ -50,22 +50,22 @@
 | [Wahoo](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/wahoo) | 重寫 | [確認跑錶](https://rq90.github.io/stryd-tw-manual/#watch) | 按明列型號核對功率與課表能力；特定裝置配對方式由原廠說明補足。 |
 | [COROS](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/coros) | 重寫 | [跑錶配對](https://rq90.github.io/stryd-tw-manual/#pair) | 分開處理感測器、功率欄位、活動匯入與課表匯出權限。 |
 | [Garmin](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin) | 重寫 | [跑錶配對](https://rq90.github.io/stryd-tw-manual/#pair) | 依世代及錶款處理感測器與 Stryd Zones，不沿用一組通用選單。 |
-| [舊款及風阻款適用](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
-| [FR 935, Fenix 5X, Fenix 5, Fenix 5S](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/fr-935-fenix-5x-fenix-5-fenix-5s) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
-| [FR 230, 235, 630 and 735XT](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/garmin-fr-230-235-630-and-735xt) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
-| [FR 245, FR 945, Fenix 6, 6X, 6S](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/garmin-fr-245-fr-945-fenix-6-6x-6s) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
-| [FR 245, FR 645, FR 945](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/fr-645-fr-935-fr-945) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
-| [920XT](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/920xt) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
-| [Fenix 7, Fenix 7s, Fenix 7x, Epix 2, Instinct 2, Forerunner 955 ,  255](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/fenix-7-fenix-7s-fenix-7x-epix-2-instinct-2-forerunner-955-255) | 待查證 | 舊頁 | 保留各型號舊選單備查；先核對韌體、Connect IQ 相容性與手錶實機。 |
+| [舊款及風阻款適用](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
+| [FR 935, Fenix 5X, Fenix 5, Fenix 5S](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/fr-935-fenix-5x-fenix-5-fenix-5s) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
+| [FR 230, 235, 630 and 735XT](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/garmin-fr-230-235-630-and-735xt) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
+| [FR 245, FR 945, Fenix 6, 6X, 6S](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/garmin-fr-245-fr-945-fenix-6-6x-6s) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
+| [FR 245, FR 645, FR 945](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/fr-645-fr-935-fr-945) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
+| [920XT](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/920xt) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
+| [Fenix 7, Fenix 7s, Fenix 7x, Epix 2, Instinct 2, Forerunner 955 ,  255](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/old/fenix-7-fenix-7s-fenix-7x-epix-2-instinct-2-forerunner-955-255) | 待查證 | 舊頁 | 保留各型號舊選單備查；新版依原廠逐型名單及 Connect IQ 相容性整理。 |
 | [Next Gen Stryd](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/garmin/nextgengarmin) | 重寫 | [跑錶配對](https://rq90.github.io/stryd-tw-manual/#pair) | 依世代及錶款處理感測器與 Stryd Zones，不沿用一組通用選單。 |
 | [Apple Watch](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/apple-watch) | 合併 | [跑錶配對](https://rq90.github.io/stryd-tw-manual/#pair) | 將 iPhone 與 Apple Watch 的首次安裝、連線集中。 |
 | [Polar](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/polar) | 重寫 | [確認跑錶](https://rq90.github.io/stryd-tw-manual/#watch) | 按明列型號核對功率與課表能力；特定裝置配對方式由原廠說明補足。 |
 | [Samsung Watch](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/samsung-watch) | 待查證 | 舊頁 | 第三方 Sporty Watch 涉及購買與版本差異，需核對可安裝機型、系統及來源。 |
 | [Suunto](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto) | 重寫 | [確認跑錶](https://rq90.github.io/stryd-tw-manual/#watch) | 按明列型號核對功率與課表能力；特定裝置配對方式由原廠說明補足。 |
-| [Suunto 3/5/9、Spartan、Vertical、Race 和 Ambit 3](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-359spartanverticalrace-he-ambit-3) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；逐型複驗。 |
-| [Suunto Ambit 3 Run 和 Ambit 2](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-ambit-3-run-he-ambit-2) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；逐型複驗。 |
-| [Suunto Spartan 和 Suunto 9 Ultra Power Zones](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-spartan-he-suunto-9-ultra-power-zones) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；逐型複驗。 |
-| [Suunto 注意事項](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-zhu-yi-shi-xiang) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；逐型複驗。 |
+| [Suunto 3/5/9、Spartan、Vertical、Race 和 Ambit 3](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-359spartanverticalrace-he-ambit-3) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；新版依各型號的原廠說明整理。 |
+| [Suunto Ambit 3 Run 和 Ambit 2](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-ambit-3-run-he-ambit-2) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；新版依各型號的原廠說明整理。 |
+| [Suunto Spartan 和 Suunto 9 Ultra Power Zones](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-spartan-he-suunto-9-ultra-power-zones) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；新版依各型號的原廠說明整理。 |
+| [Suunto 注意事項](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/suunto/suunto-zhu-yi-shi-xiang) | 待查證 | 舊頁 | 保留舊版 Suunto 錶款的配對、功率區間或指標限制；新版依各型號的原廠說明整理。 |
 | [Amazfit](https://strydtaiwan.gitbook.io/stryd/setup-stryd/watchwithstryd/support-equipment/amazfit) | 重寫 | [確認跑錶](https://rq90.github.io/stryd-tw-manual/#watch) | 按明列型號核對功率與課表能力；特定裝置配對方式由原廠說明補足。 |
 | [最後，把 Stryd 扣到鞋子上！](https://strydtaiwan.gitbook.io/stryd/setup-stryd/stryd-on) | 重寫 | [扣上跑鞋](https://rq90.github.io/stryd-tw-manual/#shoe) | 保留鞋帶固定與方向檢查，先戴好再測試手錶連線。 |
 
@@ -108,10 +108,10 @@
 | --- | --- | --- | --- |
 | [PowerCenter](https://strydtaiwan.gitbook.io/stryd/power-center) | 保留 | 舊頁 | 保留進階分析與名詞查詢；產品介面與指標定義另案核對。 |
 | [使用相關 Q\&A](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials) | 保留 | 舊頁 | 保留進階分析與名詞查詢；產品介面與指標定義另案核對。 |
-| [Garmin 圈數數據在 PowerCenter 可以顯示嗎？](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/is-my-garmin-lap-data-visible-in-powercenter) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制需以現行 PowerCenter 驗證。 |
-| [超過 8 小時的跑步數據是否可查看？](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/can-powercenter-deal-with-runs-longer-than-8-hours) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制需以現行 PowerCenter 驗證。 |
-| [Power Center 無法開啟，只看到空白屏幕](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/power-center-will-not-load-i-only-see-a-blank-screen) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制需以現行 PowerCenter 驗證。 |
-| [如何使用數據剪輯工具？](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/how-do-i-use-the-data-clipping-tool) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制需以現行 PowerCenter 驗證。 |
+| [Garmin 圈數數據在 PowerCenter 可以顯示嗎？](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/is-my-garmin-lap-data-visible-in-powercenter) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制以現行 PowerCenter 說明為準。 |
+| [超過 8 小時的跑步數據是否可查看？](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/can-powercenter-deal-with-runs-longer-than-8-hours) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制以現行 PowerCenter 說明為準。 |
+| [Power Center 無法開啟，只看到空白屏幕](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/power-center-will-not-load-i-only-see-a-blank-screen) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制以現行 PowerCenter 說明為準。 |
+| [如何使用數據剪輯工具？](https://strydtaiwan.gitbook.io/stryd/power-center/powercenter-tutorials/how-do-i-use-the-data-clipping-tool) | 待查證 | 舊頁 | 圈數、長時間紀錄、瀏覽器與編輯工具的限制以現行 PowerCenter 說明為準。 |
 | [臨界功率 (Critical Power)](https://strydtaiwan.gitbook.io/stryd/power-center/critical-power) | 保留 | 舊頁 | 保留進階分析與名詞查詢；產品介面與指標定義另案核對。 |
 | [我的臨界功率，算厲害嗎？](https://strydtaiwan.gitbook.io/stryd/power-center/critical-power/howdoesyourcriticalpowercomparetootherrunners) | 保留 | 舊頁 | 保留進階分析與名詞查詢；產品介面與指標定義另案核對。 |
 | [自動CP曲線圖(Auto-CP Model Curve)](https://strydtaiwan.gitbook.io/stryd/power-center/autocp-model-curve) | 保留 | 舊頁 | 保留進階分析與名詞查詢；產品介面與指標定義另案核對。 |

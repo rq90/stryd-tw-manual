@@ -10,7 +10,7 @@
 
 - [178 頁舊手冊逐頁去向](research/migration.md)，含舊網址、新版入口、取捨與待查條件。
 - [原廠安裝手冊比較與架構選擇](research/structure.md)，比較 Polar H10、COROS POD 2、Garmin Running Dynamics Pod 與 Stryd。
-- [網頁檢查與實機待驗項目](research/verification.md)，記錄哪些檢查已有結果，以及下一位實測者需要觀察什麼。
+- [網頁與來源連結檢查](research/verification.md)，收錄手機與桌機版面的導覽、圖片及來源連結檢查結果。
 - [貢獻與預覽方式](CONTRIBUTING.md)，包含修改、建置、來源與圖片規則。
 
 ## 本機開啟
